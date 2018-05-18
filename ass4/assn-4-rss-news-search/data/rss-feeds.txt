@@ -1,0 +1,4 @@
+News - Utah Education Network: http://www.uen.org/feeds/rss/news.xml.php
+learning.now: http://www.pbs.org/teachers/learning.now/rss2/index.xml
+NPR Topics: Education: http://www.npr.org/rss/rss.php?id=1013
+TechLEARNing.com: http://www.techlearning.com/RSS

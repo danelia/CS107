@@ -1,0 +1,11 @@
+#ifndef _ERROR_H
+#define _ERROR_H
+
+enum {
+  ERROR_SUCCESS,
+  ERROR_ACCOUNT_NOT_FOUND,
+  ERROR_INSUFFICIENT_FUNDS,
+};
+
+
+#endif /* _ERROR_H */
